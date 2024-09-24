@@ -1,16 +1,12 @@
-# tes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+langkah 1 cupertino dan loading bar
+![Alt text](<Screenshot (1426).png>)
+langkah 2 floating action button (FAB)
+![Alt text](<Screenshot (1427).png>)
+langkah 3 scaffold widget
+![Alt text](<Screenshot (1429).png>)
+langkah 4 dialog widget
+![Alt text](<Screenshot (1430).png>)
+langkah 5 input dan selection widget
+![Alt text](<Screenshot (1431).png>)
+langkah 6 date and time pickers
+![Alt text](<Screenshot (1432).png>)
